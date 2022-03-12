@@ -8,6 +8,10 @@
 
 + [Space Background Generator][ar-dfold-space-bg-gen]
 
+[Sungraphica][ar-sung]:
+
++ [Sci-Fi Game UI Collection (Free Version)][ar-sung-sci-fi]
+
 ### Audio
 
 [Wee Free Music][au-wee]:
@@ -23,6 +27,8 @@
 <!-- Art Credits-->
 [ar-dfold]: https://deep-fold.itch.io/
 [ar-dfold-space-bg-gen]: https://deep-fold.itch.io/space-background-generator
+[ar-sung]: https://sungraphica.itch.io/
+[ar-sung-sci-fi]: https://sungraphica.itch.io/sci-fi-game-ui-collection-free-version
 
 <!-- Audio Credits-->
 [au-wee]: https://www.youtube.com/channel/UCfzEqnm747wolxAAcr5mfkg
