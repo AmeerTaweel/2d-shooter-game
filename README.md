@@ -2,10 +2,24 @@
 
 ## Credits
 
+### Art
+
+[Deep-Fold][ar-dfold]:
+
++ [Space Background Generator][ar-dfold-space-bg-gen]
+
 ### Audio
 
-[Wee Free Music][wee-free-music]:
+[Wee Free Music][au-wee]:
 
-+ [Cyberpunk 2077](https://youtu.be/zvc3cC99RlU)
++ [Cyberpunk 2077][au-wee-cyberpunk]
 
-[wee-free-music]: https://www.youtube.com/channel/UCfzEqnm747wolxAAcr5mfkg
+<!-- Credits Linkx -->
+
+<!-- Art Credits-->
+[ar-dfold]: https://deep-fold.itch.io/
+[ar-dfold-space-bg-gen]: https://deep-fold.itch.io/space-background-generator
+
+<!-- Audio Credits-->
+[au-wee]: https://www.youtube.com/channel/UCfzEqnm747wolxAAcr5mfkg
+[au-wee-cyberpunk]: https://youtu.be/zvc3cC99RlU
