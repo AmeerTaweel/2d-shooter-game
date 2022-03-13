@@ -34,6 +34,8 @@ public class Health : MonoBehaviour
     [Tooltip("The maximum number of lives this health can have")]
     public int maximumLives = 5;
 
+    public UIManager uiManager = null;
+
     /// <summary>
     /// Description:
     /// Standard unity funciton called before the first frame update
@@ -96,6 +98,14 @@ public class Health : MonoBehaviour
     public void SetRespawnPoint(Vector3 newRespawnPosition)
     {
         respawnPosition = newRespawnPosition;
+    }
+
+    public void UpdateUIElements()
+    {
+        if (uiManager != null)
+        {
+            uiManager.UpdateUI();
+        }
     }
 
     /// <summary>
@@ -222,6 +232,7 @@ public class Health : MonoBehaviour
     void HandleDeathWithLives()
     {
         currentLives -= 1;
+		UpdateUIElements();
         if (currentLives > 0)
         {
             Respawn();
