@@ -22,6 +22,7 @@
 
 + [Dark Conspiracy][au-hbros-conspiracy]
 + [Alien Imposter][au-hbros-imposter]
++ [8 Bit Evil][au-hbros-evil]
 
 <!-- Credits Linkx -->
 
@@ -37,3 +38,4 @@
 [au-hbros]: https://www.youtube.com/channel/UCsLlqLIE-TqDq3lh5kU2PeA
 [au-hbros-conspiracy]: https://youtu.be/SY-49rIbOSc
 [au-hbros-imposter]: https://youtu.be/oV_y4XhMOPE
+[au-hbros-evil]: https://youtu.be/sVCeqYmRwJ0
