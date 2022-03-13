@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7125813286935845034}
   - component: {fileID: 7125813286935845035}
   m_Layer: 0
-  m_Name: EnemySpawnerChaser
+  m_Name: EnemySpawnerChaserStraight 1
   m_TagString: Untagged
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -43,7 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 830b9e1d08327e44eaeaccf7737c98b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 111767558614867189, guid: cfd62ad4c55daa942bae8f75211b08e0, type: 3}
+  enemyPrefab: {fileID: 8282131552441171991, guid: 69bb62ab0a22b454ab3c1a7e6c5a110a, type: 3}
   target: {fileID: 0}
   spawnRangeX: 0
   spawnRangeY: 0

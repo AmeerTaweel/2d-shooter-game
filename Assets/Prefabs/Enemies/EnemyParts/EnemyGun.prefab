@@ -45,13 +45,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 3412472712242831842, guid: 209d4d49de0bd3843b645f4a2775c108, type: 3}
   projectileHolder: {fileID: 0}
-  animator: {fileID: 0}
   isPlayerControlled: 0
   fireRate: 0.5
   projectileSpread: 1
-  overrideProjectileSettings: 0
-  projectileDamage: 1
-  teamID: 0
-  projectileSpeed: 20
   fireEffect: {fileID: 6229913163069739088, guid: a499391aa95bee24ab8e999366f75fe4, type: 3}
-  inputManager: {fileID: 0}
